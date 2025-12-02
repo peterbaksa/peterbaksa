@@ -6,7 +6,7 @@ My name is Peter Baksa, I am a Data Scientist with a background in Finance.
 I started my journey in Data Science and Machine Learning from scratch, so I understand the challenges that 
 beginners in this field face.
 
-
+ 
 # About Me ![](https://komarev.com/ghpvc/?username=peterbaksa&color=green)
 
 
